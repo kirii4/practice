@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Змейка:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
-    <root id="archive" name="Змейка.jar">
-      <element id="module-output" name="Змейка" />
-    </root>
-  </artifact>
-</component>
